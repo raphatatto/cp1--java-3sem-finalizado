@@ -113,28 +113,28 @@ Sistema interativo via terminal para:
 ## ⚖️ Simulações
 
 ### Criar um funcionário
-![Criar um funcionário](./img/1-Criar%20um%20funcionario.jpg)
+![Criar um funcionário](cp1_java_3sem/img/1-Criar%20um%20funcionario.jpg)
 
 ### Buscar todos os funcionários
-![Buscar todos os funcionários](./img/2-buscar%20todos%20os%20funcionarios.jpg)
+![Buscar todos os funcionários](cp1_java_3sem/img/2-buscar%20todos%20os%20funcionarios.jpg)
 
 ### Buscar por ID
-![Buscar por ID](./img/3-%20Buscar%20funcionario%20pelo%20ID.jpg)
+![Buscar por ID](cp1_java_3sem/img/3-%20Buscar%20funcionario%20pelo%20ID.jpg)
 
 ### Atualizar funcionário
-![Atualizar](./img/4-Atualiza%20o%20funcionario.jpg)
+![Atualizar](cp1_java_3sem/img/4-Atualiza%20o%20funcionario.jpg)
 
 ### Deletar
-![Deletar](./img/5-%20Deleta%20um%20funcioanario.jpg)
+![Deletar](cp1_java_3sem/img/5-%20Deleta%20um%20funcioanario.jpg)
 
 ### Encerrar programa
-![Encerrar](./img/6-%20Fecha%20o%20programa.jpg)
+![Encerrar](cp1_java_3sem/img/6-%20Fecha%20o%20programa.jpg)
 
 ### Classe de Teste executando CRUD automaticamente
-![CRUD Test](./img/Classe%20teste%20fazendo%20CRUD.jpg)
+![CRUD Test](cp1_java_3sem/img/Classe%20teste%20fazendo%20CRUD.jpg)
 
 ### Cálculo de salários
-![Cálculo Salários](./img/Cálculo%20dos%20salários.jpg)
+![Cálculo Salários](cp1_java_3sem/img/Cálculo%20dos%20salários.jpg)
 
 ---
 
